@@ -8,5 +8,6 @@ lista de objetivos
 - Formar un punto de encuentro entre creativos y personas con ideas.
 - Protegerse mutuamente de individuos que buscan beneficio economico sin la creacion de valor real.
 - Apoyo mutuo entre personas e individuos de todo tipo de rubros para la craecion de valor.
+- Fomentar la creacion de programas y modelos exitosos para incrementar el uso de la tecnologia.
 
 
