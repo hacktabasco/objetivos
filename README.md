@@ -1,5 +1,5 @@
 # objectivos
-lista de objetivos
+##lista de objetivos
 
 - Creacion de comunidad alrededor de la tecnologia.
 - Creacion de valor a travez de proyectos con impacto local y proyección global.
