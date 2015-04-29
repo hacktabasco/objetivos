@@ -10,4 +10,11 @@
 - Apoyo mutuo entre personas e individuos de todo tipo de rubros para la craecion de valor.
 - Fomentar la creacion de programas replicacando modelos exitosos para incrementar el uso de la tecnologia.
 
+##Metas
+- Entablar vínculos estrechos entre los integrantes del ecosistema emprendedor.
+- Desarrollar habilidades de desenvolvimiento en los emprendedores.
+- Fomentar las relaciones aspiracionales, que desembocan en posibles estrategias de negocio.
+- Ampliar el criterio de los emprendedores dentro de una perspectiva de negocio.
+- Transferencia de conocimiento informal como catalizador de negocios.
+
 
