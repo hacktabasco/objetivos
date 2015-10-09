@@ -1,4 +1,4 @@
-# objectivos
+# objetivos
 ##lista de objetivos
 
 - Creacion de comunidad alrededor de la tecnologia.
